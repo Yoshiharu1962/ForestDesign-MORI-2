@@ -320,7 +320,7 @@ PCA9685のPWM出力はオンボードLEDだけで完結させず外部にも引�
 **「究極のLチカ」は入口。遊びながらPWMを理解し、そのまま外部制御へ発展できるボードを目指しています。**
 
 #16. 森弐式回路図
-![MORI-2 schematic](MORI-2-sch.pdf)
+![MORI-2 schematic](images/MORI-2-sch.png)
 
 
 
