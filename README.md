@@ -5,6 +5,11 @@ PCA9685 PWM / LED Control Learning Board
 
 森弐式は、Seeed Studio XIAOシリーズをコントローラーとして使用し、PCA9685による多チャンネルPWM制御とNeoPixelを手軽に実験できるようにした開発・デモ用基板です。
 
+- 次のサムネイルをクリックすると動作確認動画にリンクします。
+
+ [![MORI-2 Demo](images/YoutubeMORI_2_Thumbnail.png)](https://youtu.be/GlBEoEuQqGY)
+
+
 PCA9685を2個搭載し、オンボードにはRGB LEDを10個、白色LED、シアンLEDを実装しています。
 
 さらにPCA9685のPWM出力は外部コネクタにも引き出してあるため、オンボードLEDだけでなく、外部LEDやロボット用サーボなどのPWM制御にも利用できます。
@@ -321,6 +326,5 @@ PCA9685のPWM出力はオンボードLEDだけで完結させず外部にも引�
 
 #16. 森弐式回路図
 ![MORI-2 schematic](images/MORI-2-sch.png)
-
 
 
